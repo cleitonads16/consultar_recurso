@@ -1,0 +1,12 @@
+/* Styles para Placeholders */
+
+::-webkit-input-placeholder {
+	text-transform: none;
+	font-style: italic;
+	font-size: 13px;
+}
+
+/*espaço vertical de div*/
+.dt_class{
+	padding-top: 10px;
+}
